@@ -1,0 +1,12 @@
+{
+  "name": "build-with-ai",
+  "version": "1.0.0",
+  "description": "Aplicación web para la gira Build with AI de Google",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
